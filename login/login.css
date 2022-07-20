@@ -1,0 +1,28 @@
+.center {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+padding: 10px;
+}
+
+h1{
+  text-align: center;
+  padding-top: -50px;
+  padding-bottom: 30px;
+
+}
+
+#box{
+  margin-bottom: 1rem;
+}
+
+p{
+  text-align: center;
+}
+
+.background{
+  background-color: navajowhite;
+  border-radius: 9px;
+  padding: 28px 42px;
+}
